@@ -1,4 +1,4 @@
-This is a fork of tghe work done by jbardin/scp.py.  
+This is a fork of the work done by jbardin/scp.py.  
 
 Pure python scp module
 ======================
